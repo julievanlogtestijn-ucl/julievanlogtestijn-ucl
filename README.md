@@ -35,7 +35,7 @@ I am currently working on my dissertation, where I am developing a **vision-lang
 
 ### 📫 Connect with Me
 
-- 🌐 [LinkedIn] https://www.linkedin.com/in/julie-van-logtestijn-43a4521a8/
+- 🌐 [LinkedIn](https://www.linkedin.com/in/julie-van-logtestijn-43a4521a8/)
 - ✉️ Email: julie.logtestijn.24@ucl.ac.uk 
 - 🌱 Always open to collaboration on impactful research projects!
 
