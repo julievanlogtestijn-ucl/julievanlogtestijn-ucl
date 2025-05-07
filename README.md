@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**julievanlogtestijn-ucl/julievanlogtestijn-ucl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I am currently working on my dissertation, where I am developing a **vision-language model** to aid in the **detection of leukemia**, with a specific focus on improving diagnostic accessibility in **low- and middle-income countries (LMICs)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Master's student at [University College London (UCL)](https://www.ucl.ac.uk/)
+- 🧠 Research interests: Medical AI & Interpretable AI
+- 🌍 Passionate about leveraging technology to make a positive impact on the world
+
+---
+
+### 🛠️ Tools & Technologies
+
+- **Languages**: Python, SQL, MATLAB, C#, R
+- **ML Frameworks**: PyTorch, TensorFlow, scikit-learn, Keras
+- **Tools**: Jupyter, Git, PowerBI
+
+---
+
+### 📌 Current Project
+
+- **Dissertation**:  
+  Developing a **vision-language model** for leukemia detection in **low- and middle-income countries**.
+- Goals:
+  - Improve diagnostic accuracy with limited medical infrastructure
+  - Enhance interpretability for clinical practitioners
+  - Build an interactive model for educational purposes
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 [LinkedIn] https://www.linkedin.com/in/julie-van-logtestijn-43a4521a8/
+- ✉️ Email: julie.logtestijn.24@ucl.ac.uk 
+- 🌱 Always open to collaboration on impactful research projects!
+
+---
