@@ -22,7 +22,7 @@ I am currently working on my dissertation, where I am developing a **vision-lang
 
 ---
 
-### 📌 Current Project
+### 📌 Current Project - MSc AI for Biomedicine and Healthcare 
 
 - **Dissertation**:  
   Developing a **vision-language model** for leukemia detection in **low- and middle-income countries**.
